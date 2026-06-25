@@ -1,2 +1,2 @@
-# DPAM-Secure-Message-Services
+# DPAMSecure-Message-Services
 Secure Message Service
